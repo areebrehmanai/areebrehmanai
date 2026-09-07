@@ -22,6 +22,7 @@ BS Artificial Intelligence student at Khwaja Fareed University of Engineering & 
 | [Speed Typing Test Game](https://github.com/areebrehmanai/speed-typing-test-game) | Interactive typing speed and accuracy test |
 | [Student Result Analysis](https://github.com/areebrehmanai/student-result-analysis) | Data analysis and visualization of student academic performance |
 | [VIP Group Elevator](https://github.com/areebrehmanai/vip-group-elevator) | Object-oriented Java simulation of a tiered VIP/Penthouse/Business-Class elevator system with password-gated access |
+| [Voice to Text](https://github.com/areebrehmanai/voice-to-text) | Whisper-based speech-to-text notebook that transcribes an uploaded mp3/wav file via an ipywidgets upload UI, with inline audio playback |
 
 ---
 
