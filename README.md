@@ -16,6 +16,7 @@ BS Artificial Intelligence student at Khwaja Fareed University of Engineering & 
 |---|---|
 | [StyleAI Virtual Try-On](https://github.com/areebrehmanai/styleai-virtual-tryon) | Photorealistic virtual try-on (IDM-VTON / SDXL diffusion) extended with a 3D reconstruction pipeline (TripoSR + PyTorch3D) — 360° turntable + downloadable GLB mesh |
 | [NeuroScanNet](https://github.com/areebrehmanai/neuroscannet-brain-tumor-detection) | Brain tumor detection from MRI using custom CNNs and transfer learning (ResNet50, VGG16) |
+| [MARL: MAPPO on Simple Spread](https://github.com/areebrehmanai/marl-mappo-simple-spread) | Multi-agent PPO built from scratch in PyTorch, with a central critic (CTDE), where 3 agents learn to cover 3 landmarks in MPE simple_spread; team return -19.7 vs -25.2 for random actions |
 | [Fake Currency Detection System](https://github.com/areebrehmanai/fake-currency-detection-system) | Rule-based CV pipeline authenticating ₹500/₹2000 notes via ORB matching, SSIM scoring, and bleed-line/number-panel detection |
 | [Movie Recommendation System](https://github.com/areebrehmanai/movie-recommendation-system) | Content/collaborative-filtering based movie recommender |
 | [Language Translator GUI](https://github.com/areebrehmanai/language-translator-gui) | Desktop GUI app for multi-language translation |
