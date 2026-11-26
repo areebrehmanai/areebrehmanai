@@ -6,7 +6,7 @@ AI graduate from Pakistan working on **multi-agent reinforcement learning, medic
 - 🔭 **Current focus:** cooperative multi-agent RL (MAPPO, centralised training with decentralised execution) and how it can be combined with control theory for safe, networked robot teams
 - 🩺 **Medical imaging:** CNN classifiers for brain MRI and breast ultrasound, evaluated with ROC-AUC and explained with Grad-CAM
 - 💼 **Jr. Data Scientist Intern, Nodebook** (Jun to Aug 2025): built 8 end-to-end ML, computer vision and NLP projects
-- 🧭 **Research interests:** multi-agent systems, cloud-edge digital twins, safe and secure control, explainable AI for healthcare
+- 🧭 **Research interests:** multi-agent reinforcement learning, cloud-edge digital twins and safe, secure control of robot teams · medical image analysis and explainable AI for healthcare · diffusion models and 3D reconstruction from images · classical computer vision for verification and security
 - 📫 [LinkedIn](https://www.linkedin.com/in/areeb-rehman-tech) · areebrehman.ai@gmail.com
 
 ---
@@ -38,8 +38,16 @@ AI graduate from Pakistan working on **multi-agent reinforcement learning, medic
 
 ### 🛠️ Skills
 
-**Areas:** `Deep Learning` `Computer Vision` `Reinforcement Learning` `Multi-Agent RL` `Medical Imaging` `Explainable AI` `Generative AI` `NLP` `Data Analysis`
+**Reinforcement learning:** `Multi-Agent RL` `MAPPO` `PPO` `Actor-Critic` `CTDE` `GAE` `PettingZoo / MPE`
 
-**Tools:** `Python` `PyTorch` `TensorFlow / Keras` `scikit-learn` `OpenCV` `NumPy` `pandas` `Matplotlib` `seaborn` `Gradio` `Java` `Git`
+**Deep learning and medical imaging:** `CNNs` `Transfer Learning (ResNet, VGG16)` `Fine-Tuning` `Data Augmentation` `Class-Weighted Training` `Early Stopping` `Grad-CAM` `ROC-AUC, Precision, Recall, F1`
+
+**Generative AI and 3D:** `Diffusion Models (IDM-VTON, SDXL)` `IP-Adapter` `TripoSR 3D Reconstruction` `PyTorch3D Rendering` `OpenPose` `DensePose (Detectron2)` `Human Parsing` `rembg` `trimesh`
+
+**Computer vision:** `OpenCV` `ORB Feature Matching` `RANSAC Homography` `SSIM` `Thresholding and Contours` `Image Preprocessing`
+
+**ML and data:** `scikit-learn` `pandas` `NumPy` `Matplotlib` `seaborn` `NLP (TF-IDF)` `Data Analysis`
+
+**Frameworks and tools:** `Python` `PyTorch` `TensorFlow / Keras` `Gradio` `Tkinter` `Jupyter / Colab` `Java` `Git / GitHub`
 
 **Languages:** English · Urdu · Punjabi
