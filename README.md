@@ -46,7 +46,7 @@ AI graduate from Pakistan working on **multi-agent reinforcement learning, medic
 
 **Computer vision:** `OpenCV` `ORB Feature Matching` `RANSAC Homography` `SSIM` `Thresholding and Contours` `Image Preprocessing`
 
-**ML and data:** `scikit-learn` `pandas` `NumPy` `Matplotlib` `seaborn` `NLP (TF-IDF)` `Data Analysis`
+**ML and data:** `scikit-learn` `pandas` `NumPy` `Matplotlib` `seaborn` `NLP` `Data Analysis`
 
 **Frameworks and tools:** `Python` `PyTorch` `TensorFlow / Keras` `Gradio` `Tkinter` `Jupyter / Colab` `Java` `Git / GitHub`
 
